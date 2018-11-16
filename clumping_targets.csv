@@ -1,0 +1,16 @@
+clumping,grp_nm,grp_min,grp_max,p
+Low,a,1,1,0.5
+Low,b,2,4,0.4
+Low,c,5,9,0.1
+Low,d,10,15,0
+Low,e,16,25,0
+Mod,a,1,1,0.35
+Mod,b,2,4,0.3
+Mod,c,5,9,0.2
+Mod,d,10,15,0.1
+Mod,e,16,25,0.05
+High,a,1,1,0.1
+High,b,2,4,0.3
+High,c,5,9,0.35
+High,d,10,15,0.15
+High,e,16,25,0.1
